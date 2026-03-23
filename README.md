@@ -69,7 +69,7 @@ AGENTIC_CHATBOT/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+#Clone the repo
 cd AGENTIC_CHATBOT
 ```
 
